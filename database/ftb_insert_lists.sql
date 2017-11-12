@@ -1,0 +1,9 @@
+INSERT INTO fbt_lists (list_id) VALUES ('10');
+INSERT INTO fbt_lists (list_id) VALUES ('11');
+INSERT INTO fbt_lists (list_id) VALUES ('12');
+INSERT INTO fbt_lists (list_id) VALUES ('13');
+INSERT INTO fbt_lists (list_id) VALUES ('14');
+INSERT INTO fbt_lists (list_id) VALUES ('15');
+INSERT INTO fbt_lists (list_id) VALUES ('16');
+INSERT INTO fbt_lists (list_id) VALUES ('17');
+INSERT INTO fbt_lists (list_id) VALUES ('18');

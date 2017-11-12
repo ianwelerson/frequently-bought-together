@@ -1,0 +1,15 @@
+INSERT INTO `fbt_products` (`product_id`, `product_name`) VALUES (NULL, 'Suco');
+INSERT INTO `fbt_products` (`product_id`, `product_name`) VALUES (NULL, 'Refrigerante');
+INSERT INTO `fbt_products` (`product_id`, `product_name`) VALUES (NULL, 'Agua Mineral');
+INSERT INTO `fbt_products` (`product_id`, `product_name`) VALUES (NULL, 'Cerveja');
+INSERT INTO `fbt_products` (`product_id`, `product_name`) VALUES (NULL, 'Banana');
+INSERT INTO `fbt_products` (`product_id`, `product_name`) VALUES (NULL, 'Uva');
+INSERT INTO `fbt_products` (`product_id`, `product_name`) VALUES (NULL, 'Morango');
+INSERT INTO `fbt_products` (`product_id`, `product_name`) VALUES (NULL, 'Carne');
+INSERT INTO `fbt_products` (`product_id`, `product_name`) VALUES (NULL, 'Peixe');
+INSERT INTO `fbt_products` (`product_id`, `product_name`) VALUES (NULL, 'Frango');
+INSERT INTO `fbt_products` (`product_id`, `product_name`) VALUES (NULL, 'Miojo');
+INSERT INTO `fbt_products` (`product_id`, `product_name`) VALUES (NULL, 'Arroz');
+INSERT INTO `fbt_products` (`product_id`, `product_name`) VALUES (NULL, 'Feijao');
+INSERT INTO `fbt_products` (`product_id`, `product_name`) VALUES (NULL, 'Macarrao');
+INSERT INTO `fbt_products` (`product_id`, `product_name`) VALUES (NULL, 'Alface');
